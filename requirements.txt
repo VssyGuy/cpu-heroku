@@ -1,4 +1,1 @@
-scikit_learn==1.1.1
-shap==0.41.0
-streamlit==1.11.0
-xgboost==1.1.1
+pandas==1.0.5
